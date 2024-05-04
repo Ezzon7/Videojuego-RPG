@@ -58,3 +58,14 @@ Al ejecutar el programa cargará una pestaña con el cual se podrán determinar 
 
 ### **VIDEOJUEGO**
 
+Parámetros elegidos antes de iniciar el juego
+![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/screen1.PNG)  
+  
+Nivel del campo
+![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/screen2.PNG)  
+  
+Nivel del desierto
+![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/screen3.PNG)  
+  
+Finalización del juego cuando superas los 100 puntos
+![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/screen4.PNG)
