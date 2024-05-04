@@ -49,7 +49,12 @@ Al ejecutar el programa cargará una pestaña con el cual se podrán determinar 
 **Numero de habitantes:** Configura el número de pobladores de la partida  
 **Numero de agentes:** Configura el número de agentes de la partida  
 **Numero de aliados:** Configura el número de aliados con el que empezará el Líder
+  
+###**Ventanas**
+**Tematica:** Breve contexto o historia del juego
+**Instrucciones:** Cómo jugar y uso de teclas
+**Créditos:** Autor del programa
+    
 
-
-
+###**VIDEOJUEGO**
 
