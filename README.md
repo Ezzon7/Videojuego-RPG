@@ -13,7 +13,7 @@ A continuación se presenta el diseño del diagrama de clases, en donde se compa
 Se utilizaron sprites públicos para la caraacterización de los personajes.
 
 **Líder**
-Es el personaje principal, y a quien nosotros controlamos. Tiene el deber de guiar a los aliados para recolectar los medicamentos.
+Es el personaje principal, y a quien nosotros controlamos. Tiene el deber de guiar a los aliados para recolectar los medicamentos.\n
 ![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/POGRA%20II_FINAL/lider.png)
 
 **Aliado**
