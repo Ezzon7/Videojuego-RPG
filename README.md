@@ -43,7 +43,7 @@ Se utilizaron los siguientes escenarios como representación de los niveles a su
 
 ## **JUGABILIDAD**  
 
-###**Parámetros**  
+### **Parámetros**  
 Al ejecutar el programa cargará una pestaña con el cual se podrán determinar varios parámetros que afectaran la jugabilidad del programa:  
 **Tiempo:** La duración de la partida  
 **Numero de habitantes:** Configura el número de pobladores de la partida  
