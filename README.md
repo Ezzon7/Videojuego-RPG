@@ -38,3 +38,14 @@ Medicamento a ser recolectado por los aliados. Aparece aleatoriamente en el mapa
 Se utilizaron los siguientes escenarios como representación de los niveles a superar  
 ![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/POGRA%20II_FINAL/mapa1.png)
 ![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/POGRA%20II_FINAL/mapa2.png)
+
+
+
+## **JUGABILIDAD**  
+Al ejecutar el programa cargará una pestaña con el cual se podrán determinar varios parámetros que afectaran la jugabilidad del programa:  
+**Tiempo: ** La duración de la partida  
+**Numero de habitantes: ** Configura el número de pobladores de la partida  
+**Numero de agentes: ** Configura el número de agentes de la partida  
+**Numero de aliados: ** Configura el número de aliados con el que empezará el Líder
+
+
