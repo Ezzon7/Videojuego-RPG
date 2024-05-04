@@ -32,3 +32,9 @@ Residentes del pueblo que fue afectado por el virus, se encuentran infectados y 
 **Cura**  
 Medicamento a ser recolectado por los aliados. Aparece aleatoriamente en el mapa.  
 ![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/POGRA%20II_FINAL/pastilla.png)
+
+
+### **Mapas**
+Se utilizaron los siguientes escenarios como representación de los niveles a superar  
+![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/POGRA%20II_FINAL/mapa1.png)
+![](https://github.com/Shark7EnzoCamargo/Videojuego-RPG/blob/master/POGRA%20II_FINAL/mapa2.png)
